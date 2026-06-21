@@ -40,6 +40,7 @@ A ton of installable browser extensions on Chrome.
 - agentic-urls: URLs that trigger the agent to do things automatically upon page load.
 > Advertisers would love to get their paws on this
 
+- shareable-generated-artifacts: Prior to code being a dominant shareable artifact, HTML pages was an artifact people used to build hypertext graphs. Fundamentally, just a document with references, it created a whole digital world. Now generative models generate more than we ever dreamed of. This should be effectively shared. And the shareable content must be rendered.   
 - artifact-jumpstart: The idea is that for things we have _done before_ or projects where you have a high-level sense of _what needs to be done_. The concrete form is that we sometimes have a sense of the artifacts that will be generated once we are done. Maybe it would be a good idea to help jumpstart that artifact (or continue progress). 
 
 
